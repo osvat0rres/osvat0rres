@@ -1,12 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Osvaldo
 
+💻 **Full-Stack Developer in Progress**  
 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+## 🧠 About Me
+- 🌱 Currently learning **Full-Stack Development**
+- 🔍 Interested in building scalable web apps and APIs along with AI
 
+---
 
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Python  
+- HTML  
+- CSS  
+- JavaScript  
+- PHP  
+- SQL  
+
+### ⚙️ Technologies & Frameworks
+- Django  
+- Django REST Framework  
+- React  
+- Node.js  
+- MySQL  
+
+### 🧰 Tools
+- Git  
+- GitHub  
+- VS Code  
+
+---
+
+## 📈 What I'm Working On
+- Building full-stack applications using **Django + React**
+- Creating RESTful APIs with **Django REST Framework**
+- Improving frontend skills with modern JavaScript
+
+---
+⬇️ Check out my projects & contributions!
